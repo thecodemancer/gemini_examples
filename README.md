@@ -1,5 +1,5 @@
 # gemini_examples
-A repo with code examples of Gemini AI
+A repo with code examples and videos of Gemini AI
 
 <IMG SRC="https://aiforsocialgood.ca/wp-content/uploads/google-gemini-ai.png" />
 
