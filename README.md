@@ -12,3 +12,4 @@ A repo with code examples and videos of Gemini AI
 - <a href="https://github.com/googleapis/langchain-google-memorystore-redis-python/blob/main/samples/langchain_quick_start.ipynb" target="_blank">Langchain-google-memorystore-redis-python</A>
 - <a href="https://github.com/google-gemini/cookbook/" >Gemini API Cookbook</a>
 - <a href="https://github.com/google-gemini/generative-ai-python" >Google AI Python SDK for the Gemini API</a>
+- <a href="https://ai.google.dev/gemini-api/prompts">Prompt gallery</a>
